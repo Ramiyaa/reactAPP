@@ -18,10 +18,7 @@ class App extends React.Component {
                   data2: '',
                   array: []
             }
-            //var arg1='';
-            //this.setNewNumber = this.setNewNumber.bind(this);
-            // this.setStateHandler = this.setStateHandler.bind(this);
-            //this.forceupdatehandler = this.forceupdatehandler.bind(this);
+            
       };
 
       //    setNewNumber(newNumber) {
